@@ -10,7 +10,7 @@ A simple key logger written in Python. This script captures all keystrokes and l
 ## Usage
 1. Download the .exe and place it in a folder
 2. Run it by double clicking it. The program will run in the background in the name "Windows OS Services"
-3. Tke key strokes will be storen in a textt file "Keylog.text" in the same folder as the .exe
+3. Tke key strokes will be storen in a text file "Keylog.text" in the same folder as the .exe
    ![image](https://github.com/AkashElangovan/Simple-Keylogger/assets/67691796/60d78a62-2cd9-4fa0-a35e-40d137c77a2d)
 
 
