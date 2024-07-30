@@ -1,5 +1,5 @@
 from pynput import keyboard
-
+#
 # The file where the keylogs will be saved
 log_file = "keylogs.txt"
 
