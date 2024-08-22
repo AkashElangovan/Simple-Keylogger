@@ -22,3 +22,4 @@ Despight having a score of 15/72 it managed to bypass popular AnitViruses like K
 This key logger is created for educational purposes only. Misuse of this tool for malicious purposes, such as capturing passwords or private information without consent, is illegal and unethical. Always ensure you have explicit permission from the owner of the device before running this script. Use responsibly and respect privacy.
 
 
+auto startup WIP
