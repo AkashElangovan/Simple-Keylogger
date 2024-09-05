@@ -14,7 +14,7 @@ A simple key logger written in Python. This script captures all keystrokes and l
    ![image](https://github.com/AkashElangovan/Simple-Keylogger/assets/67691796/60d78a62-2cd9-4fa0-a35e-40d137c77a2d)
 
 
-## AV Detection
+## AV Detection!
 ![image](https://github.com/AkashElangovan/Simple-Keylogger/assets/67691796/2ac99e54-f616-4ba0-95db-1592f6052534)
 Despight having a score of 15/72 it managed to bypass popular AnitViruses like Kaspersky, McAfee and many.
 
